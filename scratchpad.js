@@ -65,3 +65,16 @@ console.log(myArray)
 myArray.pop()
 console.log(myArray)
 
+myArray.shift()
+console.log(myArray)
+myArray.unshift(0)
+console.log(myArray)
+
+myArray.forEach(function(item){
+  console.log("For an element " + item)
+})
+
+
+
+
+
