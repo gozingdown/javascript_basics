@@ -71,7 +71,7 @@ myArray.unshift(0)
 console.log(myArray)
 
 myArray.forEach(function(item, index, array){
-  console.log("For an element: " + item + ' at index: ' + index + 'of array: ' + array)
+  console.log("For an element: " + item + ' at index: ' + index + ' of array: ' + array)
 })
 
 
